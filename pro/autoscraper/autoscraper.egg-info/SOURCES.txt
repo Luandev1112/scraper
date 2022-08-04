@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+autoscraper/__init__.py
+autoscraper/auto_scraper.py
+autoscraper/utils.py
+autoscraper.egg-info/PKG-INFO
+autoscraper.egg-info/SOURCES.txt
+autoscraper.egg-info/dependency_links.txt
+autoscraper.egg-info/requires.txt
+autoscraper.egg-info/top_level.txt
